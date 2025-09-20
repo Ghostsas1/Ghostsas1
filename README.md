@@ -28,12 +28,60 @@
 
 ---
 
+<!-- ========= 🛠️ MY FAVORITE TOOLS ========= -->
+<details open>
+  <summary><h2>🛠️ my favorite tools</h2></summary>
+
+  <h3>languages</h3>
+  <p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3670A0.svg?logo=python&logoColor=ffdd54">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=database&logoColor=white">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+  </p>
+
+  <h3>data science</h3>
+  <p>
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0C55A5.svg?logo=plotly&logoColor=white">
+    <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-9F4F96.svg">
+    <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white">
+  </p>
+
+  <h3>data engineering</h3>
+  <p>
+    <img alt="Airflow" src="https://img.shields.io/badge/Apache_Airflow-017CEE.svg?logo=apache-airflow&logoColor=white">
+    <img alt="Prefect" src="https://img.shields.io/badge/Prefect-000000.svg?logo=prefect&logoColor=white">
+    <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?logo=apache-kafka&logoColor=white">
+    <img alt="Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C.svg?logo=apachespark&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
+    <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=google-cloud&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazon-aws&logoColor=white">
+  </p>
+
+  <h3>dev & mlops</h3>
+  <p>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
+    <img alt="Conda" src="https://img.shields.io/badge/Conda-342B029.svg?logo=anaconda&logoColor=white">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  </p>
+</details>
+
+---
+
 <!-- ========= 📘 MY TOP OPEN SOURCE PROJECTS ========= -->
 <details open>
   <summary><h2>📘 my top open source projects</h2></summary>
 
-  <!-- replace repo names below with your real repos once they exist -->
-  <!-- cards by anuraghazra/github-readme-stats -->
+  <!-- replace with your real repos as you create them -->
   <p align="left">
     <a href="https://github.com/Ghostsas1/etl-airflow-pipeline">
       <img width="278" alt="etl-airflow-pipeline"
@@ -89,60 +137,10 @@
     </a>
   </p>
 
-  <!-- optional: link to contributions overview -->
   <a href="https://github.com/Ghostsas1?tab=overview">
     <img alt="Contributions" title="My contributions"
          src="https://custom-icon-badges.demolab.com/badge/-see%20my%20contributions-1F222E?style=for-the-badge&logo=fork&logoColor=white">
   </a>
-</details>
-
----
-
-<!-- ========= 🛠️ MY FAVORITE TOOLS ========= -->
-<details open>
-  <summary><h2>🛠️ my favorite tools</h2></summary>
-
-  <h3>languages</h3>
-  <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3670A0.svg?logo=python&logoColor=ffdd54">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=database&logoColor=white">
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-  </p>
-
-  <h3>data science</h3>
-  <p>
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0C55A5.svg?logo=plotly&logoColor=white">
-    <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-9F4F96.svg">
-    <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white">
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white">
-  </p>
-
-  <h3>data engineering</h3>
-  <p>
-    <img alt="Airflow" src="https://img.shields.io/badge/Apache_Airflow-017CEE.svg?logo=apache-airflow&logoColor=white">
-    <img alt="Prefect" src="https://img.shields.io/badge/Prefect-000000.svg?logo=prefect&logoColor=white">
-    <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?logo=apache-kafka&logoColor=white">
-    <img alt="Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C.svg?logo=apachespark&logoColor=white">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
-    <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=google-cloud&logoColor=white">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazon-aws&logoColor=white">
-  </p>
-
-  <h3>dev & mlops</h3>
-  <p>
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white">
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
-    <img alt="Conda" src="https://img.shields.io/badge/Conda-342B029.svg?logo=anaconda&logoColor=white">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  </p>
 </details>
 
 ---
@@ -202,8 +200,6 @@
       <img src="YOUR_BADGE_IMAGE_URL_3" alt="Certification 3" height="110">
     </a>
   </p>
-
-  <!-- tip: on credly, open a badge -> right-click badge image -> copy image address for the src above -->
 </details>
 
 ---
